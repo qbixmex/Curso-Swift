@@ -7,3 +7,7 @@ print("\(a) + \(b) = \(a + b)")
 print("\(a) - \(b) = \(a - b)")
 print("\(a) x \(b) = \(a * b)")
 print("\(a) / \(b) = \(a / b)")
+
+// Modulo
+print("9 % 3 = \(9 % 3)")
+print("10 % 2 = \(10 % 2)")
