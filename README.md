@@ -1,1 +1,4 @@
-# Curso-Swift
+# Curso de Programación Swift
+
+- Variables
+- Operadores
