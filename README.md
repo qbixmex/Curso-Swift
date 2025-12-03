@@ -6,3 +6,4 @@
 - Logica (if, else)
 - Switch
 - Arrays
+- For In
