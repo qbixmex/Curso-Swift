@@ -2,3 +2,4 @@
 
 - Variables
 - Operadores
+- Funciones
