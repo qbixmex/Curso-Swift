@@ -3,3 +3,4 @@
 - Variables
 - Operadores
 - Funciones
+- Logica (if, else)
