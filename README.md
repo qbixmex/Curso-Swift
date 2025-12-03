@@ -7,3 +7,4 @@
 - Switch
 - Arrays
 - For In
+- While Loop
