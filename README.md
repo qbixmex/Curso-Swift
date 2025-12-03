@@ -5,3 +5,4 @@
 - Funciones
 - Logica (if, else)
 - Switch
+- Arrays
