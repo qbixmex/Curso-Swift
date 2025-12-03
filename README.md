@@ -4,3 +4,4 @@
 - Operadores
 - Funciones
 - Logica (if, else)
+- Switch
